@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92f69376968a04c4893c0e83c38afff2, type: 3}
+  m_Name: PlayerDice3
+  m_EditorClassIdentifier: 
+  rb: {fileID: 0}
+  model: {fileID: 0}
+  modelPrefab: {fileID: 5670973630813744837, guid: 010e247e9a2e12346a8b9375d13fb05f, type: 3}
+  topFaceSo: {fileID: 11400000, guid: 3c980c16e31dfc3428d3da5b58fdfd21, type: 2}
+  bottomFaceSo: {fileID: 11400000, guid: 3c980c16e31dfc3428d3da5b58fdfd21, type: 2}
+  frontFaceSo: {fileID: 11400000, guid: 3c980c16e31dfc3428d3da5b58fdfd21, type: 2}
+  backFaceSo: {fileID: 11400000, guid: 5fa9ad72627f20c4ab5e52cf89c23b9e, type: 2}
+  leftFaceSo: {fileID: 11400000, guid: d514789f92e242444a8d301b41dc7834, type: 2}
+  rightFaceSo: {fileID: 11400000, guid: d514789f92e242444a8d301b41dc7834, type: 2}

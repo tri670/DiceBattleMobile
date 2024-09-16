@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92f69376968a04c4893c0e83c38afff2, type: 3}
+  m_Name: _Enemy1Dice
+  m_EditorClassIdentifier: 
+  rb: {fileID: 0}
+  model: {fileID: 0}
+  modelPrefab: {fileID: 5670973630813744837, guid: 1be0b105a697cd344bc13524eb811f19, type: 3}
+  topFaceSo: {fileID: 11400000, guid: e900d036af4872d42a6a311bf51cb7e6, type: 2}
+  bottomFaceSo: {fileID: 11400000, guid: e900d036af4872d42a6a311bf51cb7e6, type: 2}
+  frontFaceSo: {fileID: 11400000, guid: fe6b713d80ee36342bb110ba434dbcc5, type: 2}
+  backFaceSo: {fileID: 11400000, guid: fe6b713d80ee36342bb110ba434dbcc5, type: 2}
+  leftFaceSo: {fileID: 11400000, guid: d514789f92e242444a8d301b41dc7834, type: 2}
+  rightFaceSo: {fileID: 11400000, guid: d514789f92e242444a8d301b41dc7834, type: 2}
